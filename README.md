@@ -1,2 +1,7 @@
 # hello-world
-My first repository
+
+Hi guys
+
+Anthony here, I'm a funny and social person, hope we're gonnna havea great time here.
+
+
